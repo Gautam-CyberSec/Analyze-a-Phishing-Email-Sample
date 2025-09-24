@@ -14,7 +14,7 @@
    
 ## FOLDER CONTENTS
 
-- Report](https://github.com/Gautam-CyberSec/Analyze-a-Phishing-Email-Sample/commit/36eacd937705fe67683ba8e59de0efe11eb697c0)
+- [Report](https://github.com/Gautam-CyberSec/Analyze-a-Phishing-Email-Sample/commit/36eacd937705fe67683ba8e59de0efe11eb697c0)
 - [Screenshot](https://github.com/Gautam-CyberSec/Analyze-a-Phishing-Email-Sample/tree/main/Screenshots)
 
 
