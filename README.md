@@ -1,5 +1,7 @@
 # Analyze a Phishing Email Sample
 
+[![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue?style=flat-square)](LICENSE)
+
 ## OBJECTIVES  
 - Identify and understand key indicators of phishing in a suspicious email sample.  
 - Analyze sender details, message content, and technical headers for evidence of phishing.  
@@ -23,3 +25,10 @@ This task provided hands-on experience in recognizing phishing tactics by dissec
 
 ## CONTACT
 
+---
+
+## Contact
+
+**Gautam** — Cloud &amp; Backend Engineer
+
+[Portfolio](https://Gautam-cloud.com) · [LinkedIn](https://linkedin.com/in/gautam-cybersec) · [gautamdem@gmail.com](mailto:gautamdem@gmail.com)

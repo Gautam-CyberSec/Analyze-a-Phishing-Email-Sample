@@ -5,7 +5,7 @@ Identify phishing characteristics in a suspicious email and summarize the indica
 
 ---
 
-<img width="669" height="472" alt="Image" src="https://github.com/Gautam-CyberSec/Analyze-a-Phishing-Email-Sample/blob/main/Screenshots/Screenshot%202025-09-24%20163549.png" />
+<img width="669" height="472" alt="Image" src="../Screenshots/Screenshot%202025-09-24%20163549.png" />
 
 ---
 
